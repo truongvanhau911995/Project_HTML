@@ -1,0 +1,26 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+/* ===============MENU TOP BAR ==============*/
+
+.navbar-default{
+	background:rgba(0,0,0,.1);
+	height: 100px;
+	text-align: center;
+}
+.logo{
+	position: absolute;
+    left: 15px;
+    top: 23px;
+    width: 60px;
+    height: 12px;
+}
+.logo img{
+	width: 104px;
+	height: 26px;
+}
+
+
+/* =============== END MENU TOP BAR ==============*/
