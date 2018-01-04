@@ -9,6 +9,7 @@
 	background:rgba(0,0,0,.1);
 	height: 100px;
 	text-align: center;
+
 }
 .logo{
 	position: absolute;
@@ -22,5 +23,14 @@
 	height: 26px;
 }
 
+.navbar-right {
+    float: right!important;
+    margin-right: -15px;
+    margin-top: 9px;
+}
 
+#menu button{
+	background: transparent;
+	border: 0;
+}
 /* =============== END MENU TOP BAR ==============*/
